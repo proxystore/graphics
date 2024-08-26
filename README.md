@@ -1,2 +1,3 @@
 # ProxyStore Graphics
-Graphics and diagrams for ProxyStore
+
+Icons, logos, and design guidelines for ProxyStore.
