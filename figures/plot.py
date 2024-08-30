@@ -4,6 +4,8 @@ import seaborn
 
 
 def main() -> None:
+    seaborn.set_style('ticks', {'axes.grid': True})
+
     data = seaborn.load_dataset('penguins')
 
     handle = seaborn.pairplot(data, hue='species')
